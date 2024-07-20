@@ -18,9 +18,9 @@
 - **Açıklama:** Bu proje, bir kurumsal web sitesi olarak geliştirilmiştir. PHP ve MySQL kullanılmıştır.
 
 ## 📫 İletişim
-- **E-posta:** edib@example.com
-- **İnstagram:** [LinkedIn Profiliniz](https://www.instagram.com/gur_edip/)
-- **Twitter:** [Twitter Profiliniz](https://x.com/ecanoney)
+- **E-posta:** edipgr5@gmail.com
+- **İnstagram:** [İnstagram Profili](https://www.instagram.com/gur_edip/)
+- **Twitter:** [Twitter Profili](https://x.com/ecanoney)
 - **Web Sitesi:** [https://www.teknotayfa.com/](https://www.teknotayfa.com/)
   
 ---
